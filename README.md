@@ -1,16 +1,14 @@
-### Hi there 👋
+## OLA SEJA BEM VINDO AO MEU PERFIL 🍎
 
-<!--
-**fscristina/fscristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***meu nome é Fernanda***
 
-Here are some ideas to get you started:
+- sou professora de fisica e estou atualmente tanto aula de informatica e robotica na escola publica
+- dou o conteudo sobre o [Alura](https//www.alura.com.br)
+- estou  sofrendo para aprender e poder ensinar para os alunos
+- utilizo  esse espaço para minha organizaçao e compartilhamneto dos meus alunos e seus projetos desenvolvidos na aula de tecnologia
+  
+### voce pode entrar em contato comigo por email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**fernandas@prof.educacao.sp.gov.br**
+
+![](https://media1.tenor.com/m/YVG0xDJg5eQAAAAC/teach-teaching.gif)
